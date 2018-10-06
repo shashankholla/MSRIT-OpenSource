@@ -3,4 +3,4 @@ MSRIT Arduino Based OpenSource Competition
 
 
 6/10/18 
-##### 3/6 UPLOADEDD
+##### 3/6 UPLOADED
