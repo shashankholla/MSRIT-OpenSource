@@ -1,9 +1,9 @@
-#define LDR 10
+#define IR 10
 #define GREEN 12
 #define RED 13
 
 void setup() {
-  pinMode(LDR,INPUT);
+  pinMode(IR,INPUT);
   pinMode(GREEN,OUTPUT);
   pinMode(RED,OUTPUT);
   Serial.begin(9600);
